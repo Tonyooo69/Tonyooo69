@@ -10,7 +10,7 @@
 </h1>
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=26&pause=1200&color=B4BEFE&center=true&vCenter=true&width=900&lines=Cachyos+Linux+%7C+Niri+Hyprland+Enjoyer;Html+%7C+Css+%7C+JavaScript;Minimal+configs%2C+clean+code" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=26&pause=1200&color=B4BEFE&center=true&vCenter=true&width=900&lines=Cachyos+Linux+%7C+Niri+Hyprland+Enjoyer;HTML+%7C+CSS+%7C+JavaScript;Minimal+configs%2C+clean+code" />
 </p>
 
 <img src="https://img.shields.io/badge/Cachyos-Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
@@ -47,11 +47,8 @@ Hey, I’m **Tonyooo** —an **Cachyos Linux** user who enjoys building clean, m
   Socials
 </h2>
 <p align="center">
-  <a href="talaogonanthony07@gmail.com" style="margin: 0 10px;">
+  <a href="https://mail.google.com/mail/u/0/?ogbl#inbox" style="margin: 0 10px;">
     <img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/5e55f843379d810870d1708c2fff4fc25c3fea6d/public/logos/technology/gmail/gmail.svg" width="55" />
-  </a>
-  <a href="https://www.facebook.com/tonyooo69" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/5e55f843379d810870d1708c2fff4fc25c3fea6d/public/logos/social%20media/linkedin/facebook.svg" width="55" />
   </a>
   <a href="https://www.instagram.com/tony0oo/" style="margin: 0 10px;">
     <img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/5e55f843379d810870d1708c2fff4fc25c3fea6d/public/logos/social%20media/instagram/instagram.svg" width="46" />
