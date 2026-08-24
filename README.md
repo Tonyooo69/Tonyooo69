@@ -47,9 +47,6 @@ Hey, I’m **Tonyooo** —an **Cachyos Linux** user who enjoys building clean, m
   Socials
 </h2>
 <p align="center">
-  <a href="https://discord.gg/YOUR_INVITE" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/5e55f843379d810870d1708c2fff4fc25c3fea6d/public/logos/social%20media/discord/discord.svg" width="55" />
-  </a>
   <a href="https://t.me/YOUR_USERNAME" style="margin: 0 10px;">
     <img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/5e55f843379d810870d1708c2fff4fc25c3fea6d/public/logos/social%20media/telegram/telegram.svg" width="46" />
   </a>
