@@ -14,7 +14,7 @@
 </p>
 
 <img src="https://img.shields.io/badge/Cachyos-Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Niri-Hyprland-Wayland-6C7086?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Niri-Wayland-6C7086?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Level-Intermediate-8AADF4?style=for-the-badge"/>
 
 </div>
