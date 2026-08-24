@@ -1,55 +1,178 @@
+<div align="center">
+
+<h1>
+  Hello
+  <img src="https://github.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/blob/main/People/Waving%20Hand.webp?raw=true"
+       width="40"
+       height="40"
+       style="vertical-align: middle;" />
+  I’m Tonyooo
+</h1>
+
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=26&pause=1200&color=B4BEFE&center=true&vCenter=true&width=900&lines=Cachyos+Linux+%7C+Niri+Hyprland+Enjoyer;Python+%7C+JavaScript+%7C+TypeScript;Minimal+configs%2C+clean+code" />
+</p>
+
+<img src="https://img.shields.io/badge/Cachyos-Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Niri-Hyprland-Wayland-6C7086?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Level-Intermediate-8AADF4?style=for-the-badge"/>
+
+</div>
+
+
+<h2>
+  <img src="https://github.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/blob/main/People/Man%20Technologist.webp?raw=true"
+       width="40"
+       height="40"
+       style="vertical-align: middle;" />
+  About Me
+</h2>
+
+Hey, I’m **Tonyooo** —an **Cachyos Linux** user who enjoys building clean, minimal, and functional things.
+
+- 🐧 Daily-driving **Cachyos Linux**
+- 🌊 Wayland + **Niri** + **Hyprland** enthusiast
+- 🧠 Focused on clean configs & developer tooling
+- 🎨 Lover of minimal & Catppuccin-style aesthetics
+- ⚙️ Linux customization & dotfiles
+- 🧩 System utilities & scripts
+- 🖥️ Wayland / compositor tooling
+- 📦 Minimal and reproducible setups
+
+<h2>
+  <img src="https://github.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/blob/main/Symbols/Speech%20Balloon.webp?raw=true"
+       width="40"
+       height="40"
+       style="vertical-align: middle;" />
+  Socials
+</h2>
 <p align="center">
-  <a href="https://github.com/Tonyooo69">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=a855f7&fontSize=54&height=90&width=666&text=Hello!%20I'm%20tonyooo" alt="Hello! I&#39;m tonyooo" />
+  <a href="https://discord.gg/YOUR_INVITE" style="margin: 0 10px;">
+    <img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/5e55f843379d810870d1708c2fff4fc25c3fea6d/public/logos/social%20media/discord/discord.svg" width="55" />
+  </a>
+  <a href="https://t.me/YOUR_USERNAME" style="margin: 0 10px;">
+    <img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/5e55f843379d810870d1708c2fff4fc25c3fea6d/public/logos/social%20media/telegram/telegram.svg" width="46" />
+  </a>
+  <a href="https://t.me/YOUR_USERNAME" style="margin: 0 10px;">
+    <img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/5e55f843379d810870d1708c2fff4fc25c3fea6d/public/logos/technology/gmail/gmail.svg" width="55" />
+  </a>
+  <a href="https://linkedin.com/in/TanujairamV" style="margin: 0 10px;">
+    <img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/5e55f843379d810870d1708c2fff4fc25c3fea6d/public/logos/social%20media/linkedin/linkedin.svg" width="55" />
+  </a>
+  <a href="https://instagram.com/TanujairamV" style="margin: 0 10px;">
+    <img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/5e55f843379d810870d1708c2fff4fc25c3fea6d/public/logos/social%20media/instagram/instagram.svg" width="46" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=e3b341&center=true&vCenter=true&width=360&height=44&lines=I%20do%20open%20source;Hello%20World!" alt="Typing headlines" />
+  Drop me a message, fork my repos, or let’s hack some code together 😎
 </p>
 
-### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<h2>
+  <img src="https://github.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/blob/main/Objects/Toolbox.webp?raw=true"
+       width="40"
+       height="40"
+       style="vertical-align: middle;" />
+  Tech Stack
+</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/5e55f843379d810870d1708c2fff4fc25c3fea6d/public/logos/technology/python/python.svg" height="50" style="margin: 0 10px;" />
+  <img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/5e55f843379d810870d1708c2fff4fc25c3fea6d/public/logos/technology/pypi/pypi.svg" height="50" style="margin: 0 10px;" />
+  <img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/5e55f843379d810870d1708c2fff4fc25c3fea6d/public/logos/technology/html/html.svg" height="50" style="margin: 0 10px;" />
+  <img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/5e55f843379d810870d1708c2fff4fc25c3fea6d/public/logos/technology/css/css.svg" height="50" style="margin: 0 10px;" />
+  <img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/5e55f843379d810870d1708c2fff4fc25c3fea6d/public/logos/technology/javascript/javascript.svg" height="50" style="margin: 0 10px;" />
+  <img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/5e55f843379d810870d1708c2fff4fc25c3fea6d/public/logos/technology/typescript/typescript.svg" height="50" style="margin: 0 10px;" />
+  <img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/5e55f843379d810870d1708c2fff4fc25c3fea6d/public/logos/technology/react/react.svg" height="50" style="margin: 0 10px;" />
+  <img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/5e55f843379d810870d1708c2fff4fc25c3fea6d/public/logos/technology/mongodb/mongodb.svg" height="50" style="margin: 0 10px;" />
+  <img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/5e55f843379d810870d1708c2fff4fc25c3fea6d/public/logos/technology/mysql/mysql.svg" height="50" style="margin: 0 10px;" />
 </p>
-
-### 🔗 Connect With Me
-
-<p align="left">
-  <a href="https://www.tiktok.com/@tonyooo69" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
-  <a href="mailto:talaogonanthony07@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Tonyooo69&show_icons=true&theme=tokyonight&title_color=a855f7&icon_color=a855f7&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Tonyooo69&layout=compact&theme=tokyonight&title_color=a855f7&icon_color=a855f7&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/5e55f843379d810870d1708c2fff4fc25c3fea6d/public/logos/technology/archlinux/archlinux.svg" height="50" style="margin: 0 10px;" />
+  <img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/5e55f843379d810870d1708c2fff4fc25c3fea6d/public/logos/technology/linux/linux.svg" height="50" style="margin: 0 10px;" />
+  <img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/5e55f843379d810870d1708c2fff4fc25c3fea6d/public/logos/technology/vscode/vscode.svg" width="50" style="margin: 0 10px;" />
+  <img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/5e55f843379d810870d1708c2fff4fc25c3fea6d/public/logos/technology/bash/bash.svg" height="50" style="margin: 0 10px;" />
+  <img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/5e55f843379d810870d1708c2fff4fc25c3fea6d/public/logos/technology/git/git.svg" height="50" style="margin: 0 10px;" />
+  <img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/5e55f843379d810870d1708c2fff4fc25c3fea6d/public/logos/technology/githubactions/githubactions.svg" height="50" style="margin: 0 10px;" />
 </p>
 
-### 📈 Contribution Graph
+
+- **Window Manager**: Niri
+- **Shell**: Zsh / Bash
+- **Editor**: VS Code
+
+<h2>
+  <img src="https://github.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/blob/main/Objects/Bar%20Chart.webp?raw=true"
+       width="40"
+       height="40"
+       style="vertical-align: middle;" />
+  GitHub Stats
+</h2>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tonyooo69&bg_color=00000000&color=a855f7&line=a855f7&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TanujairamV&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6200EE&icon_color=BB86FC" alt="GitHub Stats" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanujairamV&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6200EE&icon_color=BB86FC" alt="Top Languages" width="300" />
 </p>
 
-### 💭 Dev Quote
+
+
+<h2>
+  <img src="https://github.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/blob/main/Animals%20and%20Nature/Snake.webp?raw=true"
+       width="40"
+       height="40"
+       style="vertical-align: middle;" />
+  Contribution Graph
+</h2>
+
+<div align="center">
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TanujairamV/TanujairamV/refs/heads/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TanujairamV/TanujairamV/refs/heads/output/pacman-contribution-graph-light.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TanujairamV/TanujairamV/refs/heads/output/pacman-contribution-graph-light.svg">
+</picture>
+</div>
+
+
+<h2>
+  <img src="https://github.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/blob/main/Symbols/Black%20Heart.webp?raw=true"
+       width="40"
+       height="40"
+       style="vertical-align: middle;" />
+  Aesthetic
+</h2>
+
+- Theme: **Catppuccin Mocha**
+- Style: Minimal • Dark • Clean
+- Philosophy: _Less noise, more focus_
+
+
+<h2>
+  <img src="https://github.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/blob/main/Objects/Musical%20Note.webp?raw=true"
+       width="40"
+       height="40"
+       style="vertical-align: middle;" />
+  Spotify
+</h2>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+  <a href="https://open.spotify.com/user/31yjqug3izszl6wvvrycikmnedpy">
+    <img src="https://tanuapi.vercel.app/api/svg?cache_bust=1787576814" alt="Now Playing on Spotify" />
+  </a>
 </p>
 
----
-<p align="center"><i>⭐️ From <a href="https://github.com/Tonyooo69">Tonyooo69</a></i></p>
+<h2>
+  <img src="https://github.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/blob/main/Activity/Sparkles.webp?raw=true"
+       width="40"
+       height="40"
+       style="vertical-align: middle;" />
+  Philosophy
+</h2>
+
+<p align="center">
+  <i>"Unix is simple. It just takes a genius to understand its simplicity." – Dennis Ritchie</i>
+</p>
+
+<p align="center">
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
+</p>
