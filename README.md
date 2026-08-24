@@ -47,7 +47,7 @@ Hey, I’m **Tonyooo** —an **Cachyos Linux** user who enjoys building clean, m
   Socials
 </h2>
 <p align="center">
-  <a href="https://mail.google.com/mail/u/0/?ogbl#inbox" style="margin: 0 10px;">
+  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=talaogonanthony07@gmail.com" style="margin: 0 10px;">
     <img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/5e55f843379d810870d1708c2fff4fc25c3fea6d/public/logos/technology/gmail/gmail.svg" width="55" />
   </a>
   <a href="https://www.instagram.com/tony0oo/" style="margin: 0 10px;">
@@ -98,21 +98,6 @@ Hey, I’m **Tonyooo** —an **Cachyos Linux** user who enjoys building clean, m
        width="40"
        height="40"
        style="vertical-align: middle;" />
-  GitHub Stats
-</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TanujairamV&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6200EE&icon_color=BB86FC" alt="GitHub Stats" width="420" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanujairamV&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6200EE&icon_color=BB86FC" alt="Top Languages" width="300" />
-</p>
-
-
-
-<h2>
-  <img src="https://github.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/blob/main/Animals%20and%20Nature/Snake.webp?raw=true"
-       width="40"
-       height="40"
-       style="vertical-align: middle;" />
   Contribution Graph
 </h2>
 
@@ -147,7 +132,7 @@ Hey, I’m **Tonyooo** —an **Cachyos Linux** user who enjoys building clean, m
 </h2>
 
 <p align="center">
-  <a href="https://open.spotify.com/user/31yjqug3izszl6wvvrycikmnedpy">
+  <a href="https://open.spotify.com/playlist/4shCUy9gGuKU0V9WkpcvKc">
     <img src="https://tanuapi.vercel.app/api/svg?cache_bust=1787576814" alt="Now Playing on Spotify" />
   </a>
 </p>
