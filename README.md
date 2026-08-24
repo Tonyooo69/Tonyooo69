@@ -69,12 +69,9 @@ Hey, I’m **Tonyooo** —an **Cachyos Linux** user who enjoys building clean, m
 </h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/5e55f843379d810870d1708c2fff4fc25c3fea6d/public/logos/technology/python/python.svg" height="50" style="margin: 0 10px;" />
-  <img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/5e55f843379d810870d1708c2fff4fc25c3fea6d/public/logos/technology/pypi/pypi.svg" height="50" style="margin: 0 10px;" />
   <img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/5e55f843379d810870d1708c2fff4fc25c3fea6d/public/logos/technology/html/html.svg" height="50" style="margin: 0 10px;" />
   <img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/5e55f843379d810870d1708c2fff4fc25c3fea6d/public/logos/technology/css/css.svg" height="50" style="margin: 0 10px;" />
   <img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/5e55f843379d810870d1708c2fff4fc25c3fea6d/public/logos/technology/javascript/javascript.svg" height="50" style="margin: 0 10px;" />
-  <img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/5e55f843379d810870d1708c2fff4fc25c3fea6d/public/logos/technology/typescript/typescript.svg" height="50" style="margin: 0 10px;" />
-  <img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/5e55f843379d810870d1708c2fff4fc25c3fea6d/public/logos/technology/react/react.svg" height="50" style="margin: 0 10px;" />
   <img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/5e55f843379d810870d1708c2fff4fc25c3fea6d/public/logos/technology/mongodb/mongodb.svg" height="50" style="margin: 0 10px;" />
   <img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/5e55f843379d810870d1708c2fff4fc25c3fea6d/public/logos/technology/mysql/mysql.svg" height="50" style="margin: 0 10px;" />
 </p>
