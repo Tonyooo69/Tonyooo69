@@ -98,23 +98,6 @@ Hey, I’m **Tonyooo** —an **Cachyos Linux** user who enjoys building clean, m
        width="40"
        height="40"
        style="vertical-align: middle;" />
-  Contribution Graph
-</h2>
-
-<div align="center">
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TanujairamV/TanujairamV/refs/heads/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TanujairamV/TanujairamV/refs/heads/output/pacman-contribution-graph-light.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TanujairamV/TanujairamV/refs/heads/output/pacman-contribution-graph-light.svg">
-</picture>
-</div>
-
-
-<h2>
-  <img src="https://github.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/blob/main/Symbols/Black%20Heart.webp?raw=true"
-       width="40"
-       height="40"
-       style="vertical-align: middle;" />
   Aesthetic
 </h2>
 
