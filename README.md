@@ -101,7 +101,7 @@ Hey, I’m **Tonyooo** — an **Cachyos Linux** user who enjoys building clean, 
 - Theme: **Catppuccin Mocha**
 - Style: Minimal • Dark • Clean
 - Philosophy: _Less noise, more focus_
-              /_To chase your dreams. You have to sleep for days_
+              / _To chase your dreams. You have to sleep for days_
 
 
 <h2>
@@ -127,7 +127,7 @@ Hey, I’m **Tonyooo** — an **Cachyos Linux** user who enjoys building clean, 
 </h2>
 
 <p align="center">
-  <i>"Da harder da sh!t. Da longer you sh!t" – Hindi ko kayo inaano</i>
+  <h2>"Da harder da sh!t. Da longer you sh!t"</h2> – <i>Hindi ko kayo inaano</i>
 </p>
 
 <p align="center">
