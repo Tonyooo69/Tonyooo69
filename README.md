@@ -101,7 +101,7 @@ Hey, I’m **Tonyooo** — an **Cachyos Linux** user who enjoys building clean, 
 - Theme: **Catppuccin Mocha**
 - Style: Minimal • Dark • Clean
 - Philosophy: _Less noise, more focus_
-              _To chase your dreams. You have to sleep for days_
+              /_To chase your dreams. You have to sleep for days_
 
 
 <h2>
