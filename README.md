@@ -28,7 +28,7 @@
   About Me
 </h2>
 
-Hey, I’m **Tonyooo** —an **Cachyos Linux** user who enjoys building clean, minimal, and functional things.
+Hey, I’m **Tonyooo** — an **Cachyos Linux** user who enjoys building clean, minimal, and functional things.
 
 - 🐧 Daily-driving **Cachyos Linux**
 - 🌊 Wayland + **Niri** + **Hyprland** enthusiast
@@ -87,7 +87,7 @@ Hey, I’m **Tonyooo** —an **Cachyos Linux** user who enjoys building clean, m
 
 
 - **Window Manager**: Niri
-- **Shell**: Zsh / Bash
+- **Shell**: Fish / Zsh / Bash
 - **Editor**: VS Code
 
 <h2>
@@ -101,6 +101,7 @@ Hey, I’m **Tonyooo** —an **Cachyos Linux** user who enjoys building clean, m
 - Theme: **Catppuccin Mocha**
 - Style: Minimal • Dark • Clean
 - Philosophy: _Less noise, more focus_
+              _To chase your dreams. You have to sleep for days_
 
 
 <h2>
@@ -126,7 +127,7 @@ Hey, I’m **Tonyooo** —an **Cachyos Linux** user who enjoys building clean, m
 </h2>
 
 <p align="center">
-  <i>"Unix is simple. It just takes a genius to understand its simplicity." – Dennis Ritchie</i>
+  <i>"Da harder da sh!t. Da longer you sh!t" – Hindi ko kayo inaano</i>
 </p>
 
 <p align="center">
