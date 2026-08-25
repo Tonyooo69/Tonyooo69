@@ -127,7 +127,7 @@ Hey, I’m **Tonyooo** — an **Cachyos Linux** user who enjoys building clean, 
 </h2>
 
 <p align="center">
-  <h2>"Da harder da sh!t. Da longer you sh!t"</h2> – <i>Hindi ko kayo inaano</i>
+  <i>"Da harder da sh!t. Da longer you sh!t" – Hindi ko kayo inaano</i>
 </p>
 
 <p align="center">
